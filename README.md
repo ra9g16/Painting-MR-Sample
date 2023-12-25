@@ -2,6 +2,9 @@
 
 Painting-MR-Sample is an example of a painting mr experience using Interaction SDK for interactions. It is designed to be used with hand tracking. 
 
+Sample Movie
+https://youtu.be/1Kwx9hGxUM8
+
 ## Getting started
 First, ensure you have Git LFS installed by running this command:
 
